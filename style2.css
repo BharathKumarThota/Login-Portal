@@ -1,0 +1,33 @@
+.background_1{
+    background-color: #e6f2ff;
+}
+.container.container_2{
+    margin-top: 10%; 
+}
+.card.card_2{
+    background-color: #f4f4f4;
+    box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+    -webkit-    box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+    -moz-        box-shadow: 2px 2px 5px rgba(0,0,0,.5);
+
+}
+.img-fluid.img-fluid2{
+    margin: auto;
+    display: block;
+    width:30%;
+}
+form.resize_1{
+    margin: auto;
+    max-width:350px;
+}
+button.color{
+    color: white;
+    background-color: orangered;
+    width: 100%;
+    
+}
+a.account{
+    text-align: center;
+    display: block;
+    margin-top: 1.2rem;
+}
